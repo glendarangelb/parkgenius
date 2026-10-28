@@ -57,8 +57,4 @@
 - **Frontend**: Developed by [Glenda Rangel](https://github.com/glendarangelb)
 - **Backend**: Developed by Yago and [João Miguel](https://github.com/joao-panza)
 - **Database Contributions**: All team members contributed
-
-  ## 🎓 Academic Information
-- **Project done for IT Project Methodology and Construction**
-- **Professor**: Claudia Paes
-- **University**: UniLaSalle - RJ
+  
